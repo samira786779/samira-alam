@@ -1,2 +1,2 @@
 # samira-alam
-this is first time for git and github 
+This is a demo for Git and Github 
